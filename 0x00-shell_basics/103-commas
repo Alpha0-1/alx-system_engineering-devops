@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a | awk '{printf "%s%s,",$0,/\/$/?"/":""}' | sort -k1 | paste -sd "" -
