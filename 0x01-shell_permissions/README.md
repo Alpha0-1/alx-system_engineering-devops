@@ -5,3 +5,4 @@ TASK 3.Chown changes ownership of file
 TASK 4.Touch creates an empty file
 TASK 5. Chmod u+x modifies access rights and gives owner permission to exclusively execute the file
 TASK 6. Chmod u+x,g+x,o+r hello adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+TASK 7. Chmod ugo+x hello adds execution permission to the owner, the group owner and the other users, to the file hello
