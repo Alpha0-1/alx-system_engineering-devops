@@ -1,1 +1,1 @@
-School is cool
+SCHOOL is cool
