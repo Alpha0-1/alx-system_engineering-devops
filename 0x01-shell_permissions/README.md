@@ -10,3 +10,5 @@ TASK 8. Chmod 007 hello sets the permission to the file hello as follows:Owner: 
 TASK 9. Chmod 753 hello sets the mode of the file hello to (-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello)
 TASK 10. Chmod --reference=olleh hello mirrors the hello file in the working directory
 TASK 11. Chmod -R +111 */ functions to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+TASK 12. Mkdir -m 751 my_dir is used to create a directory called my_dir with permissions 751 in the working directory.
+TASK 13.
