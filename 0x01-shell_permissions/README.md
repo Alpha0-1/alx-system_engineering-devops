@@ -12,4 +12,5 @@ TASK 10. Chmod --reference=olleh hello mirrors the hello file in the working dir
 TASK 11. Chmod -R +111 */ functions to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 TASK 12. Mkdir -m 751 my_dir is used to create a directory called my_dir with permissions 751 in the working directory.
 TASK 13.chgrp school hello changes the group owner to school for the file hello
-TASK14.chown is used to change ownership. 
+TASK14.chown is used to change ownership.
+TASK15.chown -h vincent:staff _hello creates a symbolic link denoted as "_hello" 
