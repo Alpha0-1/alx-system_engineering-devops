@@ -14,4 +14,5 @@ TASK 12. Mkdir -m 751 my_dir is used to create a directory called my_dir with pe
 TASK 13.chgrp school hello changes the group owner to school for the file hello
 TASK14.chown is used to change ownership.
 TASK15.chown -h vincent:staff _hello creates a symbolic link denoted as "_hello"
-TASK16. chown --from=guillaume betty hello changes the owner of the file hello to betty only if it is owned by the user guillaume because it is a conditional argument. 
+TASK16. chown --from=guillaume betty hello changes the owner of the file hello to betty only if it is owned by the user guillaume because it is a conditional argument.
+TASK17. telnet towel.blinkenlights.nl directly links to StarWars IV episode being played in the terminal 
