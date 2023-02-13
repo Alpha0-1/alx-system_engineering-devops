@@ -15,4 +15,4 @@ Task-12:ls -t . | head is the command used where the -t flag sorts the newest fi
 Task-13: sort | uniq -u creates the stated conditions. Uniq command has been used to omit repeated lines
 Task-14: grep/egrep is used to print lines that match patterns
 Task-15: grep...the -A flag when paired with 'grep' prints a set number of lines after matching context.
-
+Task-17: The -v option when used with grep selects non-matching lines
