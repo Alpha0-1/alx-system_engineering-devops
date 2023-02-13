@@ -18,3 +18,4 @@ Task-15: grep...the -A flag when paired with 'grep' prints a set number of lines
 Task-17: The -v option when used with grep selects non-matching lines
 Task-18: the [[:alpha:]] argument specifies that only those lines starting with a letter will be displayed
 Task-19: The tr command is used to translate or delete characters.
+Task-20: Here tr is used ro remove the characters "Cc"
