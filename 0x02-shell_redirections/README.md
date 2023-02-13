@@ -11,3 +11,4 @@ Task-8: ls -la > ls_cwd_content writes the result of the las -la command into th
 Task-9: tail -1 iacta >> iacta command directs the program to duplicate the last line back into the file itself. The ">>" symbol denotes to make two copies of the same argument.
 Task-10:find command can be modified further with options to be extra selective at finding files of a specific type. I used the -type option to specify the file based on their name and gave the ".js" characters as test data.
 Task-11:The code counts the number of directories and sub-directories using the find command which relies on the type option. The path option is also utilised.
+Task-12:ls -t . | head is the command used where the -t flag sorts the newest file by modification time and head specifies to list the first 10.
