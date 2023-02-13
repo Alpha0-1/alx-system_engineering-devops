@@ -7,3 +7,4 @@ Task-4: tail /etc/passwd displays the last ten lines of the file "/etc/passwd" b
 Task-5: head /etc/paswd displays the first 10 lines of the file because that is the function of the command "head"
 Task-6: head -3 iacta | tail -1 will display the third line of the file and since head displays the first 10, coupling it up with an index makes the task doable.
 Task-7: Majorly involves escaping all the prohibited characters using the slash symbol (\).
+Task-8: ls -la > ls_cwd_content writes the result of the las -la command into the file ls_cwd_content file due to the ">" symbol which refers to the standard output(stdout).
