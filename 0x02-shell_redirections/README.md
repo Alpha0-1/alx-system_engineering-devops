@@ -20,3 +20,4 @@ Task-18: the [[:alpha:]] argument specifies that only those lines starting with 
 Task-19: The tr command is used to translate or delete characters.
 Task-20: Here tr is used ro remove the characters "Cc"
 Task-21: rev is a command used to reverse lines characterwise.
+Task-22:the "cut" command removes sections from each line of files or a set type. The '-d' option is used as a field delimiter and the '-f' option is used to select only specific fields 
