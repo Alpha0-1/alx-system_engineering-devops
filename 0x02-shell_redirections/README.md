@@ -14,5 +14,5 @@ Task-11:The code counts the number of directories and sub-directories using the 
 Task-12:ls -t . | head is the command used where the -t flag sorts the newest file by modification time and head specifies to list the first 10.
 Task-13: sort | uniq -u creates the stated conditions. Uniq command has been used to omit repeated lines
 Task-14: grep/egrep is used to print lines that match patterns
-Task-15: grep...the -i flag is used to process a binary file
+Task-15: grep...the -A flag when paired with 'grep' prints a set number of lines after matching context.
 
