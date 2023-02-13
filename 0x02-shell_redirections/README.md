@@ -21,4 +21,5 @@ Task-19: The tr command is used to translate or delete characters.
 Task-20: Here tr is used ro remove the characters "Cc"
 Task-21: rev is a command used to reverse lines characterwise.
 Task-22:the "cut" command removes sections from each line of files or a set type. The '-d' option is used as a field delimiter and the '-f' option is used to select only specific fields
-Task-23:The options which perform the stated commands are:(-empty, -d -f) 
+Task-23:The options which perform the stated commands are:(-empty, -d -f)
+Task-24:rev is used several times to remove extensions from names,sort -f makes the sorting case-insensitive, 
