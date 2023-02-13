@@ -12,3 +12,5 @@ Task-9: tail -1 iacta >> iacta command directs the program to duplicate the last
 Task-10:find command can be modified further with options to be extra selective at finding files of a specific type. I used the -type option to specify the file based on their name and gave the ".js" characters as test data.
 Task-11:The code counts the number of directories and sub-directories using the find command which relies on the type option. The path option is also utilised.
 Task-12:ls -t . | head is the command used where the -t flag sorts the newest file by modification time and head specifies to list the first 10.
+Task-13: sort | uniq -u creates the stated conditions. Uniq command has been used to omit repeated lines
+
